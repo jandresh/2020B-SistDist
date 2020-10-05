@@ -2,25 +2,53 @@
 
 Ejercicio: S1 
 Compilación: 
-´´´gcc -o S1Contador S1Contador.c´´´ 
+
+´´´
+gcc -o S1Contador S1Contador.c
+´´´
+
 Ejecución: 
-´´´./S1Contador´´´
+
+´´´
+./S1Contador
+´´´
 
 Ejercicio: S2.1.a 
 Compilación: 
-´´´gcc -o S2Fibo S2Fibo.c´´´
-Ejecución: 
-´´´./S2Fibo´´´
+
+´´´
+gcc -o S2Fibo S2Fibo.c
+´´´
+
+Ejecución:
+
+´´´
+./S2Fibo
+´´´
 
 Ejercicio: S2.1.b 
 Compilación: 
-´´´gcc -o S2FiboWait S2FiboWait.c´´´ 
+
+´´´
+gcc -o S2FiboWait S2FiboWait.c
+´´´
+
 Ejecución: 
-´´´./S2FiboWait´´´
+
+´´´
+./S2FiboWait
+´´´
 
 Ejercicio: S2.2
 Compilación: 
-´´´make main´´´ 
+
+´´´
+make main
+´´´ 
+
 Ejecución: 
-´´´./S2FiboStatus´´´
+
+´´´
+./S2FiboStatus
+´´´
 
