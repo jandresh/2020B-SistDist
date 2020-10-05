@@ -21,7 +21,7 @@ main(int argc, char *argv[])
         //printf("hello, I am parent of %d (pid:%d)\n",rc, (int) getpid());
         contador +=2;
         }
-        printf("contador= %d",contador);        
+        printf("contador= %d\n",contador);        
     return 0;
 }
 

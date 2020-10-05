@@ -18,3 +18,5 @@ Conectese a la maquina virtual usando el comando "vagrant ssh"
 Ejecute los comandos "sudo apt update" y "sudo apt install build-essential" con el cual se instala el compilador de C.
 
 El directorio 2020B-SistDist/vagrant se puede acceder desde la maquina virtual en el path /vagrant ingrese al directorio de trabajo con el comando "cd /vagrant/procesosHilos/20201005Sugeridos/"
+
+Revise el archivo 2020B-SistDist/vagrant/procesosHilos/20201005Sugeridos para conocer la ejecución de los programas implementados.
