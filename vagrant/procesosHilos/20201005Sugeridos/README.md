@@ -1,8 +1,26 @@
-# random
+#Compilación y ejecición de los programas
 
-En este repositorio encuentra una librería en C que permite la fácil generación de números aleatorios. En los archivos [maxrand.h](maxrand.h) y [maxrand.c](maxrand.c) se encuentra la definición y la implementación de la función en esta librería. En el archivo [Makefile](Makefile) se encuentra un ejemplo de como generar la librería y como usarla. El programa que la usa se llama [mainmaxrand.c](mainmaxrand.c). Para ver la librería en ejecución, llevar a cabo los siguientes pasos:
+Ejercicio: S1 
+Compilación: 
+´´´gcc -o S1Contador S1Contador.c´´´ 
+Ejecución: 
+´´´./S1Contador´´´
 
-```
-make main
-./demomaxrand
-```
+Ejercicio: S2.1.a 
+Compilación: 
+´´´gcc -o S2Fibo S2Fibo.c´´´
+Ejecución: 
+´´´./S2Fibo´´´
+
+Ejercicio: S2.1.b 
+Compilación: 
+´´´gcc -o S2FiboWait S2FiboWait.c´´´ 
+Ejecución: 
+´´´./S2FiboWait´´´
+
+Ejercicio: S2.2
+Compilación: 
+´´´make main´´´ 
+Ejecución: 
+´´´./S2FiboStatus´´´
+
