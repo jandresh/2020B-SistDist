@@ -31,7 +31,10 @@ int main(int argc, char *argv[])
     } else {
         //printf("hello, I am parent of %d (pid:%d)\n",rc, (int) getpid());
         // parent goes down this path (original process)
-        int wc = wait(NULL);
+        int status;
+        int wc = wait(&status);
+        WIFEXITED(status);
+        WEXITSTATUS(status);
         printf("hello, I am parent of %d (wc:%d) (pid:%d)\n",rc, wc, (int) getpid());
     }
     return 0;
