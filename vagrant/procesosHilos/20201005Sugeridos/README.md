@@ -1,6 +1,7 @@
-#Compilación y ejecición de los programas
+# Compilación y ejecición de los programas
 
-Ejercicio: S1 
+# Ejercicio: S1 
+
 Compilación: 
 
 ```
@@ -13,7 +14,8 @@ Ejecución:
 ./S1Contador
 ```
 
-Ejercicio: S2.1.a 
+# Ejercicio: S2.1.a 
+
 Compilación: 
 
 ```
@@ -26,7 +28,8 @@ Ejecución:
 ./S2Fibo
 ```
 
-Ejercicio: S2.1.b 
+# Ejercicio: S2.1.b 
+
 Compilación: 
 
 ```
@@ -39,7 +42,8 @@ Ejecución:
 ./S2FiboWait
 ```
 
-Ejercicio: S2.2
+# Ejercicio: S2.2
+
 Compilación: 
 
 ```
