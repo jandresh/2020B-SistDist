@@ -56,3 +56,18 @@ Ejecución:
 ./S2FiboStatus
 ```
 
+# Ejercicio: S3
+
+Compilación: 
+
+```
+gcc -o S3Exec S3Exec.c
+``` 
+
+Ejecución: 
+
+```
+./S3Exec ls -l
+./S3Exec find . -name "*.c"
+```
+
